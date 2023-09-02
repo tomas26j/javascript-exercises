@@ -4,4 +4,4 @@ function hello() {
   
 let x = hello();
 
-console.log(x);
+console.log(x); // Hi
